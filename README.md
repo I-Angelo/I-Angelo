@@ -11,6 +11,13 @@ My passion has been from a young age to learn how computer and softwares work an
 
 Technical Experience:
 
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
+</details>
+
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1| Databases:    |
