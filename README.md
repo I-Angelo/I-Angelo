@@ -9,20 +9,19 @@ I attended Florida Atlantic University for Computer Science, and most recently, 
 
 My passion has been from a young age to learn how computer and softwares work and interact with one another. I am currently looking to continue my career as a Software Developer with an organization in which I can expand my knowledge and be able to contribute to the company's growth.
 
-Technical Experience:
 
-<details>
-<summary>My top THINGS-TO-RANK</summary>
-
-YOUR TABLE
-
-</details>
+<details open>
+<summary>Technical Experience: </summary>
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1| Databases:    |
 |     2|               |
 |     3|               |
+
+</details>
+
+
 
 
 
