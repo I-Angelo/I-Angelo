@@ -15,7 +15,7 @@ My passion has been from a young age to learn how computer and softwares work an
   <br>
   <details>
     <summary>Database: </summary>
-      |      |     Databases      |
+      | Rank |     Databases      |
       |-----:|--------------------|
       |     1| ElephantSQL        |
       |     2| DBeaver            |
@@ -23,6 +23,7 @@ My passion has been from a young age to learn how computer and softwares work an
       |     4| NoSQL              |
       |     5| AZURE Blob Storage |
   </details>
+  <br>
   <details>
       |      | THING-TO-RANK |
       |-----:|---------------|
@@ -41,6 +42,7 @@ My passion has been from a young age to learn how computer and softwares work an
 </details>
 
 
+Markup :  [Named Link](https://ivananguloprosite.com/ "Personal Website")
 
 
 
