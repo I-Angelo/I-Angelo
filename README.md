@@ -12,13 +12,13 @@ My passion has been from a young age to learn how computer and softwares work an
 
 <details open>
 <summary>Technical Experience: </summary>
-  <details>
+  <databases>
       |      |  Databases    |
       |-----:|---------------|
       |     1| Databases:    |
       |     2|               |
       |     3|               |
-  </details>
+  </databases>
   <details>
       |      | THING-TO-RANK |
       |-----:|---------------|
