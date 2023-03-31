@@ -13,13 +13,15 @@ My passion has been from a young age to learn how computer and softwares work an
 <details open>
 <summary>Technical Experience: </summary>
   <br>
-  <br>
   <details>
-      |      |  Databases    |
-      |-----:|---------------|
-      |     1| Databases:    |
-      |     2|               |
-      |     3|               |
+    <summary>Database: </summary>
+      |      |     Databases      |
+      |-----:|--------------------|
+      |     1| ElephantSQL        |
+      |     2| DBeaver            |
+      |     3| PostgreSQL         |
+      |     4| NoSQL              |
+      |     5| AZURE Blob Storage |
   </details>
   <details>
       |      | THING-TO-RANK |
