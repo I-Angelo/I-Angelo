@@ -69,12 +69,11 @@ My passion has been from a young age to learn how computer and softwares work an
 
 [![Personal Website / Work History](https://user-images.githubusercontent.com/111244396/229555818-ba5be3ee-6620-4b0f-8627-0d3911b0ad13.png)](https://ivananguloprosite.com/)
 
-[![LinkedIn](https://www.freepnglogos.com/pics/linkedin-logo-png)](https://www.linkedin.com)
 
 <div id="badges">
+  <a href="(https://www.linkedin.com/in/ivan-angelo/)">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 
