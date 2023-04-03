@@ -26,33 +26,55 @@ My passion has been from a young age to learn how computer and softwares work an
 
 </details>
 
-  
+<details>
+<summary> FRAMEWORKS: </summary>
+
+|       |       |
+| :---: | :---: |
+| * | Bootstrap  |
+| * | Flask  |
+| * | REACT  |
+
+
+</details>
+
+<details>
+<summary> LANGUAGES: </summary>
+
+|       |       |
+| :---: | :---: |
+| * | HTML5  |
+| * | CSS  |
+| * | JavaScript  |
+| * | Python  |
+| * | TypeScript  |
+| * | Jinja  |
+
+</details>
+
+<details>
+<summary> TOOLS/DEVOPS: </summary>
+
+|       |       |
+| :---: | :---: |
+| * | Node.js  |
+| * | JSON  |
+| * | Github  |
+| * | Heroku  |
+| * | Glitch  |
+| * | Firebase  |
+| * | Insomnia REST API  |
+
+</details>
 
 
 
 [Personal Website / Work History](https://ivananguloprosite.com/ "Personal Website")
 
 
-Frameworks:
-
-Bootstrap, Flask, REACT, JSON, Node.js
-
-Languages:
-
-HTML5, CSS, JavaScript, Python, TypeScript, Jinja
-
-Tools / DevOps:
-
-Insomnia REST API, Firebase, Glitch, Github, Heroku
 
 
-<details>
-<summary>Dropdown Title</summary>
 
-| Column 1 Heading | Column 2 Heading |
-| ---------------- | ---------------- |
-| Row 1, Column 1  | Row 1, Column 2  |
-| Row 2, Column 1  | Row 2, Column 2  |
 
-</details>
+
 
