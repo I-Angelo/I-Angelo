@@ -69,11 +69,7 @@ My passion has been from a young age to learn how computer and softwares work an
 
 [![Personal Website / Work History](https://user-images.githubusercontent.com/111244396/229555818-ba5be3ee-6620-4b0f-8627-0d3911b0ad13.png)](https://ivananguloprosite.com/)
 
-
-[Personal Website / Work History](https://ivananguloprosite.com/ "Personal Website")
-
-[![Button Name](path/to/button/image.png)](https://github.com/yourusername)
-
+[![LinkedIn](https://www.freepnglogos.com/pics/linkedin-logo-png)](https://www.linkedin.com)
 
 
 
