@@ -25,7 +25,7 @@ My passion has been from a young age to learn how computer and softwares work an
 | * | AZURE Blob Storage  |
 
 </details>
-
+<br>
 <details>
 <summary> FRAMEWORKS: </summary>
 
@@ -37,7 +37,7 @@ My passion has been from a young age to learn how computer and softwares work an
 
 
 </details>
-
+<br>
 <details>
 <summary> LANGUAGES: </summary>
 
