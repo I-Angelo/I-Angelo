@@ -14,8 +14,8 @@ My passion has been from a young age to learn how computer and softwares work an
 <summary>Technical Experience: </summary>
   <br>
   
-      |Rank|   Description      |
-      |----|--------------------|
+      |    |   Description      |
+      | :---: | :---: | :---:
       |   1| ElephantSQL        |
       |   2| DBeaver            |
       |   3| PostgreSQL         |
