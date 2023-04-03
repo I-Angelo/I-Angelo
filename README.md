@@ -10,7 +10,7 @@ I attended Florida Atlantic University for Computer Science, and most recently, 
 My passion has been from a young age to learn how computer and softwares work and interact with one another. I am currently looking to continue my career as a Software Developer with an organization in which I can expand my knowledge and be able to contribute to the company's growth.
 
 
-## Technical Experience: ##
+## __Technical Experience:__ ##
   <br>
   
       |    |   Description      |
