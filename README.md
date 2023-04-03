@@ -30,7 +30,7 @@ My passion has been from a young age to learn how computer and softwares work an
 
 
 
-Markup :  [Personal Website](https://ivananguloprosite.com/ "Personal Website")
+[Personal Website](https://ivananguloprosite.com/ "Personal Website")
 
 
 Frameworks:
