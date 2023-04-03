@@ -15,7 +15,7 @@ My passion has been from a young age to learn how computer and softwares work an
   <br>
   <details>
     <summary>Database: </summary>
-      |      |                      |
+      | Rank |   Description        |
       |------|----------------------|
       |   :1:| :ElephantSQL:        |
       |   :2:| :DBeaver:            |
