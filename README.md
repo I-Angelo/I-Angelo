@@ -20,7 +20,7 @@ My passion has been from a young age to learn how computer and softwares work an
     | Row 1, Column 1  | Row 1, Column 2  |
     | Row 2, Column 1  | Row 2, Column 2  |
 
-    </details>
+  </details>
 
   
   <br>
