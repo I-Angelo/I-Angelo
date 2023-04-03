@@ -16,7 +16,7 @@ My passion has been from a young age to learn how computer and softwares work an
 <details>
 <summary> DATABASE: </summary>
 
-|      | Column 2 Heading |
+|      |     |
 | :---: | :---: |
 | * | ElephantSQL  |
 | * | DBeaver  |
