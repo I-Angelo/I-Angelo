@@ -56,7 +56,7 @@ Content Cell  | Content Cell
 |   5| AZURE Blob Storage |
 
 |    |   Description      |
-| :---: | :---: | :---:
+| :---: | :---: | :---:  |
 |   1| ElephantSQL        |
 |   2| DBeaver            |
 |   3| PostgreSQL         |
