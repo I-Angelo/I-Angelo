@@ -48,6 +48,14 @@ First Header  | Second Header
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 
+|Rank|   Description      |
+|----|--------------------|
+|   1| ElephantSQL        |
+|   2| DBeaver            |
+|   3| PostgreSQL         |
+|   4| NoSQL              |
+|   5| AZURE Blob Storage |
+
 
 Databases:
 
