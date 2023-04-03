@@ -18,33 +18,17 @@ My passion has been from a young age to learn how computer and softwares work an
 
 |      | Column 2 Heading |
 | :---: | :---: |
-| * | Row 1, Column 2  |
-| * | Row 1, Column 2  |
-| * | Row 1, Column 2  |
-| * | Row 1, Column 2  |
-| * | Row 1, Column 2  |
+| * | ElephantSQL  |
+| * | DBeaver  |
+| * | PostgreSQL  |
+| * | NoSQL  |
+| * | AZURE Blob Storage  |
 
 
 </details>
 
   
-  <br>
-  <details>
-      |      | THING-TO-RANK |
-      |-----:|---------------|
-      |     1| Databases:    |
-      |     2|               |
-      |     3|               |
-  </details>
-  <details>
-      |      | THING-TO-RANK |
-      |-----:|---------------|
-      |     1| Databases:    |
-      |     2|               |
-      |     3|               |
-  </details>
-  
-</details>
+
 
 
 Markup :  [Named Link](https://ivananguloprosite.com/ "Personal Website")
