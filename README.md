@@ -13,8 +13,7 @@ My passion has been from a young age to learn how computer and softwares work an
 <details open>
 <summary>Technical Experience: </summary>
   <br>
-  <details>
-    <summary>Database: </summary>
+  
       | Rank |   Description        |
       |------|----------------------|
       |   :1:| :ElephantSQL:        |
@@ -22,7 +21,7 @@ My passion has been from a young age to learn how computer and softwares work an
       |   :3:| :PostgreSQL:         |
       |   :4:| :NoSQL:              |
       |   :5:| :AZURE Blob Storage: |
-  </details>
+  
   <br>
   <details>
       |      | THING-TO-RANK |
