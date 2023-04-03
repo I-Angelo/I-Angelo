@@ -13,12 +13,12 @@ My passion has been from a young age to learn how computer and softwares work an
 ## __Technical Experience:__ ##
   <br>
   <details>
-    <summary>Dropdown Title</summary>
+<summary>Dropdown Title</summary>
 
-    | Column 1 Heading | Column 2 Heading |
-    | ---------------- | ---------------- |
-    | Row 1, Column 1  | Row 1, Column 2  |
-    | Row 2, Column 1  | Row 2, Column 2  |
+| Column 1 Heading | Column 2 Heading |
+| ---------------- | ---------------- |
+| Row 1, Column 1  | Row 1, Column 2  |
+| Row 2, Column 1  | Row 2, Column 2  |
 
   </details>
 
