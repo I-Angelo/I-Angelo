@@ -10,11 +10,11 @@ I attended Florida Atlantic University for Computer Science, and most recently, 
 My passion has been from a young age to learn how computer and softwares work and interact with one another. I am currently looking to continue my career as a Software Developer with an organization in which I can expand my knowledge and be able to contribute to the company's growth.
 
 
-## __Technical Experience:__ ##
+## ___Technical Experience:___ ##
   <br>
  
 <details>
-<summary>__DATABASE:__</summary>
+<summary> ___DATABASE:___ </summary>
 
 |      | Column 2 Heading |
 | ---------------- | ---------------- |
