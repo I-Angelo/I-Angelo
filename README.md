@@ -24,7 +24,6 @@ My passion has been from a young age to learn how computer and softwares work an
 | * | NoSQL  |
 | * | AZURE Blob Storage  |
 
-
 </details>
 
   
@@ -33,31 +32,6 @@ My passion has been from a young age to learn how computer and softwares work an
 
 Markup :  [Named Link](https://ivananguloprosite.com/ "Personal Website")
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
-|Rank|   Description      |
-|----|--------------------|
-|   1| ElephantSQL        |
-|   2| DBeaver            |
-|   3| PostgreSQL         |
-|   4| NoSQL              |
-|   5| AZURE Blob Storage |
-
-|     |   Description       |
-|:---:|        :---:       |
-|    1| ElephantSQL        |
-|    2| DBeaver            |
-|    3| PostgreSQL         |
-|    4| NoSQL              |
-|    5| AZURE Blob Storage |
-
-
-Databases:
-
-ElephantSQL, DBeaver, PostgreSQL, NoSQL, AZURE Blob Storage
 
 Frameworks:
 
