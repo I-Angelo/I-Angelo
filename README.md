@@ -14,7 +14,7 @@ My passion has been from a young age to learn how computer and softwares work an
   <br>
  
 <details>
-___<summary> DATABASE: </summary>___
+<summary> ***DATABASE:*** </summary>
 
 |      | Column 2 Heading |
 | ---------------- | ---------------- |
