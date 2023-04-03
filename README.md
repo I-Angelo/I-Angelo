@@ -7,7 +7,7 @@
 
 I attended Florida Atlantic University for Computer Science, and most recently, I earned my certificate of completion in Computer Software Engineer at Coding Temple. 
 
-My passion has been from a young age to learn how computer and softwares work and interact with one another. I am currently looking to continue my career as a Software Developer with an organization in which I can expand my knowledge and be able to contribute to the company's growth.
+My passion has been from a young age to learn how computer and softwares work and interact with one another. I am currently looking to continue my career as a Software Developer with an organization in which I can expand my knowledge and be able to contribute to the front-end and back-end development and building of web applications.
 
 
 ## ___Technical Experience:___ ##
@@ -68,6 +68,7 @@ My passion has been from a young age to learn how computer and softwares work an
 </details>
 <br>
 
+<div align="center">
 
 [![Personal Website / Work History](https://user-images.githubusercontent.com/111244396/229555818-ba5be3ee-6620-4b0f-8627-0d3911b0ad13.png)](https://ivananguloprosite.com/)
 
@@ -77,6 +78,8 @@ My passion has been from a young age to learn how computer and softwares work an
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+  
+ </div>
 
 
 
