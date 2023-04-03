@@ -15,13 +15,13 @@ My passion has been from a young age to learn how computer and softwares work an
   <br>
   <details>
     <summary>Database: </summary>
-      | Rank |     Databases      |
-      |-----:|--------------------|
-      |     1| ElephantSQL        |
-      |     2| DBeaver            |
-      |     3| PostgreSQL         |
-      |     4| NoSQL              |
-      |     5| AZURE Blob Storage |
+      |      |   :Databases:        |
+      |------|----------------------|
+      |   :1:| :ElephantSQL:        |
+      |   :2:| :DBeaver:            |
+      |   :3:| :PostgreSQL:         |
+      |   :4:| :NoSQL:              |
+      |   :5:| :AZURE Blob Storage: |
   </details>
   <br>
   <details>
